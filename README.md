@@ -1,5 +1,5 @@
 # QuantSeq 3'mRNAseq data analysis
-Code for RNA-Seq data analysis of the paper titled "Aberrant oligodendroglial-vascular interactions disrupt the Blood Brain Barrier triggering CNS inflammation" (Jianqin Niu, Hui-Hsin Tsai, Kimberly Hoi, Nanxin Huang, Guangdan Yu, Kicheol Kim, Sergio Baranzini, Lan Xiao, Jonah R. Chan, Stephen P.J. Fancy).
+Code for RNA-Seq data analysis of the paper titled "Aberrant oligodendroglial-vascular interactions disrupt the Blood Brain Barrier triggering CNS inflammation" (Jianqin Niu, Hui-Hsin Tsai, Kimberly Hoi, Nanxin Huang, Guangdan Yu, Kicheol Kim, Sergio Baranzini, Lan Xiao, Jonah R. Chan, Stephen P.J. Fancy). Nature Neuroscience (Accepted)
 
 The sequencing library was prepared according to the manufacturer's instructions (Lexogen).
 
