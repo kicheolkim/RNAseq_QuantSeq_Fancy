@@ -4,11 +4,11 @@ Code for RNA-Seq data analysis of the paper titled "Aberrant oligodendroglial-va
 The sequencing library was prepared according to the manufacturer's instructions (Lexogen).
 
 ## Analysis workflow
-#### Trim Galore v0.4.4 with CutAdapt v1.14: Trimming illumina adaptor
-#### FastQC v0.11.6: QC of fastq file
-#### STAR aligner v2.5.0a: sequence alignment
+#### 1. Trim Galore v0.4.4 with CutAdapt v1.14: Trimming illumina adaptor
+#### 2. FastQC v0.11.6: QC of fastq file
+#### 3. STAR aligner v2.5.0a: sequence alignment
 - genome reference: Gencode mouse genome reference (M14), https://www.gencodegenes.org/mouse/release_M14.html
-#### Statistical analysis using R and Bioconductor 
+#### 4. Statistical analysis using R and Bioconductor 
 - R version 3.5.1 (2018-07-02) and Bioconductor version 3.7 (BiocInstaller 1.30.0)
 - Additional packages: ggplot2_3.1.0, RColorBrewer_1.1-2, pheatmap_1.0.10, DESeq2_1.20.0, readr_1.2.1                
 
