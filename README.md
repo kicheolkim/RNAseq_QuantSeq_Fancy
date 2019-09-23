@@ -28,4 +28,5 @@ The sequencing library was prepared according to the manufacturer's instructions
 
 
 -----
-Made by Kicheol Kim (January 28. 2019. updated)
+- Created by Kicheol Kim, PhD (January 2019. updated)
+- Baranzini Lab. (https://github.com/baranzini-lab), Department of Neurology, UCSF
