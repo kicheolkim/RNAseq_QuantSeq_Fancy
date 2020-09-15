@@ -2,7 +2,7 @@
 Code for RNA-Seq data analysis of the paper titled "Aberrant oligodendroglial-vascular interactions disrupt the Blood Brain Barrier triggering CNS inflammation" (Jianqin Niu, Hui-Hsin Tsai, Kimberly Hoi, Nanxin Huang, Guangdan Yu, Kicheol Kim, Sergio Baranzini, Lan Xiao, Jonah R. Chan, Stephen P.J. Fancy).
 Paper published in Nature Neuroscience (22, pages 709–718(2019)) https://www.nature.com/articles/s41593-019-0369-4
 
-The sequencing library was prepared according to the manufacturer's instructions (Lexogen).
+The sequencing library was prepared according to the manufacturer's instructions (Lexogen QuantSeq 3'mRNA-seq FWD for Illumina).
 
 ## Analysis workflow
 #### 1. Trim Galore v0.4.4 with CutAdapt v1.14: Trimming illumina adaptor
